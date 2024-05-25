@@ -13,5 +13,5 @@
   - 提取码：w7mo 
 ```
 cd lucid
-python3 bodymap.py --ct <ct.nii.gz的路径> --output <输出的结果存放文件夹>
+python3 bodyseg.py --ct <ct.nii.gz的路径> --output <输出的结果存放文件夹>
 ```
